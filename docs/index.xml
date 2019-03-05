@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ad Demo Site Kanga333</title>
-    <link>http://kanga333.github.io/addemo/</link>
-    <description>Recent content on Ad Demo Site Kanga333</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title>Ad Demo Site Kanga333 on Ad Demo Site Kanga333 </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://kanga333.github.io/addemo/</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 14:07:38 +0900</lastBuildDate>
     
-	<atom:link href="http://kanga333.github.io/addemo/index.xml" rel="self" type="application/rss+xml" />
     
+    <updated>Tue, 05 Mar 2019 14:07:38 JST</updated>
     
     <item>
       <title>GoodBy</title>
-      <link>http://kanga333.github.io/addemo/post/goodbye/</link>
-      <pubDate>Tue, 05 Mar 2019 14:07:38 +0900</pubDate>
+      <link>https://kanga333.github.io/addemo/post/goodbye/</link>
+      <pubDate>Tue, 05 Mar 2019 14:07:38 JST</pubDate>
       
-      <guid>http://kanga333.github.io/addemo/post/goodbye/</guid>
-      <description>さようなら</description>
+      <guid>https://kanga333.github.io/addemo/post/goodbye/</guid>
+      <description>&lt;p&gt;さようなら&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://kanga333.github.io/addemo/addemo/images/goodbye.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://kanga333.github.io/addemo/post/hello/</link>
-      <pubDate>Mon, 04 Mar 2019 12:58:11 +0900</pubDate>
+      <link>https://kanga333.github.io/addemo/post/hello/</link>
+      <pubDate>Mon, 04 Mar 2019 12:58:11 JST</pubDate>
       
-      <guid>http://kanga333.github.io/addemo/post/hello/</guid>
-      <description>こんにちは</description>
+      <guid>https://kanga333.github.io/addemo/post/hello/</guid>
+      <description>&lt;p&gt;こんにちは&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://kanga333.github.io/addemo/addemo/images/hello.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
